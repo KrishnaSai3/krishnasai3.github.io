@@ -36,8 +36,8 @@
 </style>
 </head>
 <body>
-  <center><a href = "COVID_19DashBoard.html"><button class="button button1">Covid19 DashBoard</button></a></Center></br>
-  <center><a href = "COVID_19DashBoard.html"><button class="button button2">IPL-2020 DashBoard</button></Center></br>
-  <center><a href = "StarWars.html"><button class="button button3">Starwars DashBoard</button></a></Center></br>
+  <a href = "COVID_19DashBoard.html"><button class="button button1">Covid19 DashBoard</button></a>
+  <a href = "COVID_19DashBoard.html"><button class="button button2">IPL-2020 DashBoard</button>
+  <a href = "StarWars.html"><button class="button button3">Starwars DashBoard</button></a>
 </body>
 </html>
