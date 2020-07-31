@@ -34,6 +34,6 @@
 
 
   <a href = "/Covid-19AnalysisUsingTableau/"><button class="button button1">Covid19 DashBoard</button></a>
-  <a href = "/IPL-Analysis2008-19/"><button class="button button2">IPL-2020 DashBoard</button>
+  <a href = "/IPL-Analysis2008-19/"><button class="button button2">IPL DashBoard</button>
   <a href = "/StarWars/"><button class="button button3">Starwars DashBoard</button></a>
 
