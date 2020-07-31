@@ -1,7 +1,4 @@
 # mydashboards.github.io
-<html>
-<head>
-  <title>My DashBoards</title></h1></center>
   <style>
 .button {
   background-color: #4CAF50; /* Green */
@@ -34,10 +31,9 @@
   border: 2px solid #f44336;
 }
 </style>
-</head>
-<body>
+
+
   <a href = "COVID_19DashBoard.html"><button class="button button1">Covid19 DashBoard</button></a>
   <a href = "COVID_19DashBoard.html"><button class="button button2">IPL-2020 DashBoard</button>
   <a href = "StarWars.html"><button class="button button3">Starwars DashBoard</button></a>
-</body>
-</html>
+
