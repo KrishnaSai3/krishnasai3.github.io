@@ -1,1 +1,43 @@
 # mydashboards.github.io
+<html>
+<head>
+  <title>My DashBoards</title></h1></center>
+  <style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+}
+</style>
+</head>
+<body>
+  <center><a href = "COVID_19DashBoard.html"><button class="button button1">Covid19 DashBoard</button></a></Center></br>
+  <center><a href = "COVID_19DashBoard.html"><button class="button button2">IPL-2020 DashBoard</button></Center></br>
+  <center><a href = "StarWars.html"><button class="button button3">Starwars DashBoard</button></a></Center></br>
+</body>
+</html>
